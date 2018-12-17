@@ -1,0 +1,35 @@
+P2P IPTV System Architecture
+¢ Source server
+connects to media source using rtsp/mms, converts to P2P
+protocol
+¢ Relay server
+connects to the source server, distribute the packet to P2P
+clients
+¢ Tracker
+manages all the P2P components including source server,
+relay, and P2P clients
+¢ EPG server
+mangers channels information and channels relay amount,
+using web technology
+
+
+P2P IPTV Solution Briefs
+Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks
+or workloads between peers. Peers are equally privileged, equipotent participants in the application. They
+are said to form a peer-to-peer network of nodes.
+
+Peers make a portion of their resources, such as processing power, disk storage or network bandwidth,
+directly available to other network participants, without the need for central coordination by servers or
+stable hosts. Peers are both suppliers and consumers of resources, in contrast to the traditional client-server
+model in which the consumption and supply of resources is divided. Emerging collaborative P2P systems
+are going beyond the era of peers doing similar things while sharing resources, and are looking for diverse
+peers that can bring in unique resources and capabilities to a virtual community thereby empowering it to
+engage in greater tasks beyond those that can be accomplished by individual peers, yet that are beneficial to
+all the peers.
+Peer-to-Peer Protocol is an application layer peer-to-peer networking protocol that can be used to form and
+maintain an overlay network among participant nodes. It provides mechanisms for nodes to join, leave,
+publish, or search for a resource-object in the overlay. It maintains information about nodes in a routing table.
+Because of potentially large content, a node's routing table only contains a subset of these nodes.
+Turn-key solution
+
+connect on skype kaul.thetv 
